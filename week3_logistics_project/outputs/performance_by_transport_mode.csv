@@ -1,0 +1,4 @@
+Transport_Mode,Shipments,Avg_Transit_Days,Avg_Cost_INR,On_Time_Rate_Pct
+Air,5,2.8,10240.76,80.0
+Rail,23,10.95,2018.08,13.04
+Road,92,8.25,3110.37,19.57
